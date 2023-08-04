@@ -33,7 +33,7 @@ const LandingPage = () => {
         <div className="col-12">
           <div className="category-list">
             <div className="category-item">
-              <Link to="/products/all">All Products</Link>
+              <Link to="/products/all">All Products and more</Link>
             </div>
 
             {categories.map((category) => (
