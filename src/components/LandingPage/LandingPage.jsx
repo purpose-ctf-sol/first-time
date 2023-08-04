@@ -52,5 +52,6 @@ const LandingPage = () => {
     </div>
   );
 };
+//Don;'t understand shit
 
 export default LandingPage;
