@@ -46,7 +46,7 @@ const LandingPage = () => {
           </div>
         </div>
         <div className="col-12">
-          <div className="category-title">Select a category</div>
+          <div className="category-title">Select from a category</div>
         </div>
       </div>
     </div>
